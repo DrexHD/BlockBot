@@ -1,15 +1,15 @@
 [versions]
-minecraft = "1.21"
-fabric-loader = "0.15.11"
-yarn-mappings = "1.21+build.2"
+minecraft = "24w37a"
+fabric-loader = "0.16.4"
+yarn-mappings = "24w37a+build.5"
 
-fabric-api = "0.100.3+1.21"
+fabric-api = "0.104.1+1.21.2"
 
 # Kotlin
-fabric-kotlin = "1.10.19+kotlin.1.9.23"
+fabric-kotlin = "1.12.1+kotlin.2.0.20"
 
 # Discord
-kord-extensions = "1.8.1-SNAPSHOT"
+kord-extensions = "1.9.0-SNAPSHOT"
 mc-discord-reserializer = "4.3.0"
 emoji-java = "5.1.1"
 adventure-gson = "4.16.0"
